@@ -8,6 +8,8 @@ The lamp itself if great, but the app to control the lampster is really bad in t
 
 I reverse engineered the protocol so I can control the lampster using a Raspberry Pi and probably write my own smart home integration later.
 
+Update: Based on my work, Chad Francis has created a [Home Assistant integration for the Lampster](https://github.com/yamanote1138/lampster-ha-integration) that you might want to try out.
+
 ## Prerequirement
 
 To use these commands you need a linux computer with bluetooth and bluez (linux bluetooth stack) installed. If you use a raspberry pi 3 or raspberry pi 4 this should work out of the box.
